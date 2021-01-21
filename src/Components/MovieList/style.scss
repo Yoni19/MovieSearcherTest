@@ -1,0 +1,24 @@
+.movies-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.movie-list {
+  width: 30%;
+}
+
+.movie-details {
+  width: 60%;
+  margin-left: 15px;
+}
+
+
+
+.one_movie_card{
+  background-color: rgb(46, 230, 199);
+  padding: 10px;
+  margin-bottom: 10px;
+  a{
+    color: black;
+  }
+}
